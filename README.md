@@ -1,6 +1,6 @@
 # Machine Learning @ GDSC VIT-B(2023-2024)
 ---
-Greetings! This is an Open Source Repository by the GDSC VIT-B's ML Team for the tenure 2023-2024. This repository consists of multiple ML and DL projects to learn from. We are open to always open to contributions and innovative ideas!</br>
+Greetings! This is an Open Source Repository by the GDSC VIT-B's ML Team for the tenure 2023-2024. This repository consists of multiple ML and DL projects to learn from. We are always open to contributions and innovative ideas!</br>
 
 ### PROJECTS ON SHOWCASE:
 ---
