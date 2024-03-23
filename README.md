@@ -34,6 +34,8 @@ Here's a list of the showcased projects in this repo:
 ### CONTRIBUTORS ✨
 > 1. [Paulie-Aditya](https://github.com/Paulie-Aditya)
 >> __Contributions by Paulie-Aditya:__
->> [AI Voice Assistant](https://github.com/DSCVITBHOPAL/ML-Projects/tree/fb66a62d95658c3fd185bf5f7e6c075df453684f/AI%20Voice%20Assistant) 
+>> [AI Voice Assistant](https://github.com/DSCVITBHOPAL/ML-Projects/tree/main/AI%20Voice%20Assistant) 
+>> [Handwritten Digit Classification](https://github.com/DSCVITBHOPAL/ML-Projects/tree/main/HandWritten%20Digit%20Classification)
+
 
 
