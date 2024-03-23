@@ -10,9 +10,24 @@ Here's a list of the showcased projects in this repo:
 
 > This project walks you through building your own AI Voice Assistant! 
 
-<a href="https://github.com/DSCVITBHOPAL/ML-Projects/tree/fb66a62d95658c3fd185bf5f7e6c075df453684f/AI%20Voice%20Assistant">Link to the project.</a>
+<a href="https://github.com/DSCVITBHOPAL/ML-Projects/tree/main/AI%20Voice%20Assistant">Link to the project.</a>
 
 ---
+---
+### Handwritten Digit Classification
+
+> Built using the MNIST Dataset, this project explores both ANN (Artificial Neural Network) and CNN (Convolutional Neural Network) approaches to recognize handwritten digits. <br>
+> This is a beginner level project to learn Deep Learning.<br>
+> Inspired from [Digit Recognizer Competition](https://www.kaggle.com/competitions/digit-recognizer/overview) , CNN performed better and Results 
+> can be seen below:
+
+![Kaggle Leaderboard](./kaggleLeaderBoard.png)
+![Kaggle Submission](./kaggleSubmissionScore.png)
+
+<a href="https://github.com/DSCVITBHOPAL/ML-Projects/tree/main/Handwritten%20Digit%20Classification"> Link to the Project. </a>
+
+---
+
 ### 👤PROJECT ADMIN(2023-24)
 
 
@@ -32,10 +47,10 @@ Here's a list of the showcased projects in this repo:
 ***
 
 ### CONTRIBUTORS ✨
-> 1. [Paulie-Aditya](https://github.com/Paulie-Aditya)
+> 1. [Paulie-Aditya](https://github.com/Paulie-Aditya) 
 >> __Contributions by Paulie-Aditya:__
->> [AI Voice Assistant](https://github.com/DSCVITBHOPAL/ML-Projects/tree/main/AI%20Voice%20Assistant) 
->> [Handwritten Digit Classification](https://github.com/DSCVITBHOPAL/ML-Projects/tree/main/HandWritten%20Digit%20Classification)
+>> - [AI Voice Assistant](https://github.com/DSCVITBHOPAL/ML-Projects/tree/main/AI%20Voice%20Assistant) 
+>> - [Handwritten Digit Classification](https://github.com/DSCVITBHOPAL/ML-Projects/tree/main/Handwritten%20Digit%20Classification)
 
 
 
