@@ -21,8 +21,8 @@ Here's a list of the showcased projects in this repo:
 > Inspired from [Digit Recognizer Competition](https://www.kaggle.com/competitions/digit-recognizer/overview) , CNN performed better and Results 
 > can be seen below:
 
-![Kaggle Leaderboard](./kaggleLeaderBoard.png)
-![Kaggle Submission](./kaggleSubmissionScore.png)
+![Kaggle Leaderboard](./Handwritten%20Digit%20Classification/CNN/images/kaggleLeaderBoard.png)
+![Kaggle Submission](./Handwritten%20Digit%20Classification/CNN/images/kaggleSubmissionScore.png)
 
 <a href="https://github.com/DSCVITBHOPAL/ML-Projects/tree/main/Handwritten%20Digit%20Classification"> Link to the Project. </a>
 
