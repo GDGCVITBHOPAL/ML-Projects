@@ -11,7 +11,7 @@ And now you have a chance to build one for yourself!
 # Instructions
 
 - Clone this repo
-- Run `pip -r requirements.txt`
+- Run `pip install -r requirements.txt`
 - Get your own Google Gemini API Key from: https://aistudio.google.com/app/apikey
 - Store your API Key in `secrets_file.py`
 - Run `main.py`
